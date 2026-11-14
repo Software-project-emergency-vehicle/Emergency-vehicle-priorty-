@@ -64,6 +64,20 @@
 							"frameTypeLabel": {
 								"$ref": "AAAAAAGhz5JQcOzUOIA="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGh23pJ/7TS7FI=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"parentStyle": false,
+							"left": 750,
+							"top": 209,
+							"width": 100,
+							"height": 25,
+							"text": "Text"
 						}
 					]
 				},
@@ -7570,7 +7584,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 644,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPPvyyQ="
@@ -7768,7 +7782,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 708,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPP57PA="
@@ -7966,7 +7980,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 764,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPQDOkU="
@@ -8164,7 +8178,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 820,
-									"width": 92.013671875,
+									"width": 83.685546875,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPQNhAU="
@@ -8362,7 +8376,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 876,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPQXVNs="
@@ -8481,7 +8495,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 634,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -8504,7 +8518,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 619,
 									"height": 12,
 									"alpha": 1.5707963267948966,
@@ -8527,7 +8541,7 @@
 									"font": "Arial;12;0",
 									"parentStyle": false,
 									"containerExtending": true,
-									"left": 347,
+									"left": 343,
 									"top": 664,
 									"height": 12,
 									"alpha": -1.5707963267948966,
@@ -9332,7 +9346,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 60,
-									"width": 120.396484375,
+									"width": 113.427734375,
 									"height": 22
 								},
 								{
@@ -9498,7 +9512,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 96,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPRKNa8="
@@ -9696,7 +9710,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 148,
-									"width": 79.380859375,
+									"width": 72.3125,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGhz5PWaPRUVdI="
@@ -18103,7 +18117,7 @@
 												"$ref": "AAAAAAGhz68k2gMejmE="
 											},
 											"visible": false,
-											"fillColor": "#B6FF6D",
+											"fillColor": "#FFFFFF",
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 824,
@@ -18116,7 +18130,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGhz68k2gMejmE="
 											},
-											"fillColor": "#B6FF6D",
+											"fillColor": "#FFFFFF",
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 1321,
@@ -18132,7 +18146,7 @@
 												"$ref": "AAAAAAGhz68k2gMejmE="
 											},
 											"visible": false,
-											"fillColor": "#B6FF6D",
+											"fillColor": "#FFFFFF",
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 824,
@@ -18148,7 +18162,7 @@
 												"$ref": "AAAAAAGhz68k2gMejmE="
 											},
 											"visible": false,
-											"fillColor": "#B6FF6D",
+											"fillColor": "#FFFFFF",
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 824,
@@ -18157,7 +18171,7 @@
 											"horizontalAlignment": 1
 										}
 									],
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 1316,
@@ -18187,7 +18201,7 @@
 										"$ref": "AAAAAAGhz68k2QMbeys="
 									},
 									"visible": false,
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 400,
@@ -18205,7 +18219,7 @@
 										"$ref": "AAAAAAGhz68k2QMbeys="
 									},
 									"visible": false,
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 400,
@@ -18223,7 +18237,7 @@
 										"$ref": "AAAAAAGhz68k2QMbeys="
 									},
 									"visible": false,
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 400,
@@ -18241,7 +18255,7 @@
 										"$ref": "AAAAAAGhz68k2QMbeys="
 									},
 									"visible": false,
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 400,
@@ -18259,7 +18273,7 @@
 										"$ref": "AAAAAAGhz68k2QMbeys="
 									},
 									"visible": false,
-									"fillColor": "#B6FF6D",
+									"fillColor": "#FFFFFF",
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 400,
@@ -18271,7 +18285,7 @@
 							"containerView": {
 								"$ref": "AAAAAAGhz65auQMBoPE="
 							},
-							"fillColor": "#B6FF6D",
+							"fillColor": "#FFFFFF",
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
@@ -26247,20 +26261,6 @@
 							"templateParameterCompartment": {
 								"$ref": "AAAAAAGh2tApdtcgSmw="
 							}
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGh2to2n9dAOYM=",
-							"_parent": {
-								"$ref": "AAAAAAGhz5hYm/2YNbk="
-							},
-							"font": "Arial;13;0",
-							"parentStyle": false,
-							"left": 1971,
-							"top": 798,
-							"width": 100,
-							"height": 25,
-							"text": "Text"
 						},
 						{
 							"_type": "FreelineEdgeView",
